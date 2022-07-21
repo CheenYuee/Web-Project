@@ -1,0 +1,13 @@
+{
+  "name": "web项目",
+  "version": "1.0.0",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "date-utils": "^1.2.21",
+    "express": "^4.18.1",
+    "iconv-lite": "^0.6.3",
+    "jschardet": "^3.0.0",
+    "node-schedule": "^2.1.0",
+    "request": "^2.88.2"
+  }
+}
