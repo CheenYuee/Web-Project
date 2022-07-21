@@ -2,7 +2,7 @@ const mysql = require("mysql");
 const pool = mysql.createPool({
     host: '127.0.0.1',
     user: 'root',
-    password: 'a12345',
+    password: '你的密码',
     database: 'crawl'
 });
 const query = function (sql, sqlparam, callback) {
