@@ -47,5 +47,8 @@ node ./search_site/bin/www
 
 ## Show
 仿华师大风格网页如下：
+
 <img src="index.png" alt="index" style="zoom: 20%;" />
+
+
 <img src="main.png" alt="index" style="zoom: 20%;" />
