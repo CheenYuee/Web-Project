@@ -46,4 +46,5 @@ node ./search_site/bin/www
 ```
 
 ## Show
-
+<img src="index.png" alt="index" style="zoom: 50%;" />
+<img src="main.png" alt="index" style="zoom: 50%;" />
